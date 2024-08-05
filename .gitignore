@@ -1,0 +1,4 @@
+hardware/controller-backups/
+hardware/fp-info-cache
+radio-firmware/.gitignore
+radio-firmware/nbproject/private/
